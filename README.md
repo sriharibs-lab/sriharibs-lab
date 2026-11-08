@@ -1,12 +1,16 @@
 # Srihari Srinivasa
 
-Product Manager on Microsoft Power Apps in Seattle. On the side I build small AI products with Claude Code and write about what I learn at [srihari.page](https://srihari.page).
+## About me
+
+I'm a Product Manager on Microsoft Copilot Studio, in Seattle. Copilot Studio is where people who are not programmers build agents: software that can read, reason and act on their behalf. My work is to make that feel less like engineering and more like explaining a task to a capable colleague, so that the people who understand a problem best are the ones who get to solve it.
+
+Outside work I build small things with Claude Code, mostly to learn by making. They live here and at [srihari.page](https://srihari.page).
 
 ## What I'm building
 
 | Project | What | Stack | Status |
 |---|---|---|---|
-| [Run Down](https://github.com/sriharibs-lab/run-down) | Natural-language and voice search over ~6,500 running races in WA, OR and CA, with a latency breakdown on every answer | Vite + React, Vercel functions, Fireworks AI (Llama 3.3 70B routing, fine-tuned Llama 3.1 8B answers, nomic embeddings, whisper-v3) | [Live](https://run-down.vercel.app) |
+| [Run Down](https://github.com/sriharibs-lab/run-down) | Natural-language and voice search over ~6,500 running races in WA, OR and CA, with a latency breakdown on every answer | Vite + React, Vercel functions, Fireworks AI (gpt-oss-120b for routing and answers, nomic embeddings, whisper-v3) | [Live](https://run-down.vercel.app) |
 | [WikiGraph](https://github.com/sriharibs-lab/wikigraph) | Search a topic and explore it as a force-directed graph of connected Wikipedia concepts; expand any node to go deeper | Next.js 14, TypeScript, Tailwind, react-force-graph-2d | [Live](https://wikigraph-ochre.vercel.app) |
 | [Nexus](https://github.com/sriharibs-lab/project-nexus) | iPhone app for saving, organizing and asking questions of internet content. Collections, AI chat, and generated audio overviews, infographics and quizzes | SwiftUI + FastAPI, Claude | In TestFlight, source-available |
 
