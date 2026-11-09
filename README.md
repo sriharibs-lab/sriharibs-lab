@@ -2,7 +2,7 @@
 
 ## About me
 
-I'm a Product Manager on Microsoft Copilot Studio, in Seattle. Copilot Studio is where people who are not programmers build agents: software that can read, reason and act on their behalf. My work is to make that feel less like engineering and more like explaining a task to a capable colleague, so that the people who understand a problem best are the ones who get to solve it.
+I'm a Product Manager on Microsoft Copilot Studio, in Seattle. Copilot Studio is where anyone with a problem worth solving can build an agent: software that reads, reasons and acts on their behalf. My work is to make that feel less like engineering and more like explaining a task to a capable colleague, so that good ideas no longer wait on someone else to build them.
 
 Outside work I build small things with Claude Code, mostly to learn by making. They live here and at [srihari.page](https://srihari.page).
 
