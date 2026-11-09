@@ -2,7 +2,7 @@
 
 ## About me
 
-I'm a Product Manager on Microsoft Copilot Studio, in Seattle. Copilot Studio puts the power of AI in the hands of people across the enterprise, from the analyst with a spreadsheet to the engineer with a backlog, and lets them shape it to the work in front of them. I believe everyone is a maker; what most people lack is not the idea but the right tools to build it with. My work is to make those tools feel less like engineering and more like explaining a task to a capable colleague, so that good ideas no longer wait on someone else to build them.
+I'm a Product Manager on Microsoft Copilot Studio, in Seattle. Copilot Studio puts the power of AI in the hands of people across the enterprise, from an analyst with a spreadsheet to an engineer with a backlog, and lets them shape it to the work in front of them. I believe everyone is a maker; what most people lack is not the idea but the right tools to build it with. My work is to make those tools feel less like engineering and more like explaining a task to a capable colleague, so that good ideas don't need someone else to build them.
 
 Outside work I build small things with Claude Code, mostly to learn by making. They live here and at [srihari.page](https://srihari.page).
 
